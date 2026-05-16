@@ -352,3 +352,7 @@ For production deployment, the architecture supports:
 
 ```
 ```
+<img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/1e620c2d-3f22-4d69-b660-8fd2fc1a7678" />
+
+<img width="1899" height="873" alt="image" src="https://github.com/user-attachments/assets/8c3da686-f028-4745-9619-aec7baa29b4d" />
+
